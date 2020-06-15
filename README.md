@@ -2,7 +2,7 @@
 
 #### Kaggle Dataset Link :
 https://www.kaggle.com/tongpython/cat-and-dog
-This data set has 8005 training images and 2023 testing images.
+(This data set has 8005 training images and 2023 testing images.)
 
 ### Dependencies:
 * Google Colaboratory
@@ -14,3 +14,5 @@ This data set has 8005 training images and 2023 testing images.
 * Matplotlib
 * Numpy 
 * Scikit-learn 
+
+### Architecture:
