@@ -17,3 +17,10 @@ https://www.kaggle.com/tongpython/cat-and-dog
 
 ### Architecture:
 ![architecture](https://user-images.githubusercontent.com/64924874/84651552-c7451480-af27-11ea-84b1-a3661de0d4bb.jpg)
+
+### Data Augmentation:
+##### Few of the Data Augmentation Techniques used:
+* Shearing of images 
+* Zooming of images 
+* Horizontal Flip
+
