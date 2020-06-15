@@ -39,6 +39,10 @@ https://www.kaggle.com/tongpython/cat-and-dog
 * Training Accuracy - 90.83%
 * Testing Accuracy - 78.60%
 
+![model-acc](https://user-images.githubusercontent.com/64924874/84653796-a8e11800-af2b-11ea-8688-91a9ea33f146.png)
+
 ### Model Loss:
 * Training Loss - 0.2244
 * Testing Loss - 1.2369
+
+
