@@ -45,4 +45,4 @@ https://www.kaggle.com/tongpython/cat-and-dog
 * Training Loss - 0.2244
 * Testing Loss - 1.2369
 
-
+![model-loss](https://user-images.githubusercontent.com/64924874/84653805-ac749f00-af2b-11ea-991e-5af8be00f5ea.png)
