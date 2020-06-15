@@ -30,4 +30,4 @@ https://www.kaggle.com/tongpython/cat-and-dog
 * Output Layer - Sigmoid
 * Optimizer - Adam 
 * Loss - Binary Cross Entropy 
-
+![net](https://user-images.githubusercontent.com/64924874/84653146-81d61680-af2a-11ea-9e14-9e866a6203cc.png)
