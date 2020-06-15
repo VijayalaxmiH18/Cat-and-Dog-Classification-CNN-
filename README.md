@@ -16,3 +16,4 @@ https://www.kaggle.com/tongpython/cat-and-dog
 * Scikit-learn 
 
 ### Architecture:
+![architecture](https://user-images.githubusercontent.com/64924874/84651552-c7451480-af27-11ea-84b1-a3661de0d4bb.jpg)
