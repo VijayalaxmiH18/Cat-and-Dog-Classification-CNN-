@@ -23,4 +23,4 @@ https://www.kaggle.com/tongpython/cat-and-dog
 * Shearing of images 
 * Zooming of images 
 * Horizontal Flip
-
+![aug](https://user-images.githubusercontent.com/64924874/84652013-84d00780-af28-11ea-9a13-8401c17d5932.png)
