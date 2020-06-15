@@ -16,6 +16,7 @@ https://www.kaggle.com/tongpython/cat-and-dog
 * Scikit-learn 
 
 ### Architecture:
+
 ![architecture](https://user-images.githubusercontent.com/64924874/84651552-c7451480-af27-11ea-84b1-a3661de0d4bb.jpg)
 
 ### Data Augmentation:
@@ -23,6 +24,7 @@ https://www.kaggle.com/tongpython/cat-and-dog
 * Shearing of images 
 * Zooming of images 
 * Horizontal Flip
+
 ![aug](https://user-images.githubusercontent.com/64924874/84652013-84d00780-af28-11ea-9a13-8401c17d5932.png)
 
 ### Network Parameter:
@@ -30,4 +32,13 @@ https://www.kaggle.com/tongpython/cat-and-dog
 * Output Layer - Sigmoid
 * Optimizer - Adam 
 * Loss - Binary Cross Entropy 
+
 ![net](https://user-images.githubusercontent.com/64924874/84653146-81d61680-af2a-11ea-9e14-9e866a6203cc.png)
+
+### Model Accuracy:
+* Training Accuracy - 90.83%
+* Testing Accuracy - 78.60%
+
+### Model Loss:
+* Training Loss - 0.2244
+* Testing Loss - 1.2369
